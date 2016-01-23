@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="370"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="30" y="55" type="line" name="hr00"/>
+      <point x="30" y="40" type="line"/>
+      <point x="220" y="240" type="line"/>
+      <point x="30" y="440" type="line"/>
+      <point x="30" y="425" type="line"/>
+      <point x="205" y="240" type="line"/>
+    </contour>
+    <contour>
+      <point x="150" y="55" type="line"/>
+      <point x="150" y="40" type="line"/>
+      <point x="340" y="240" type="line"/>
+      <point x="150" y="440" type="line"/>
+      <point x="150" y="425" type="line"/>
+      <point x="325" y="240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="61" width="-21" />
+      <hstem pos="440" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

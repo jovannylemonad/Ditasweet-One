@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="J" format="1">
+  <advance width="520"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="480" y="700" type="line" name="hr00"/>
+      <point x="250" y="700" type="line"/>
+      <point x="250" y="690" type="line"/>
+      <point x="310" y="690" type="line"/>
+      <point x="310" y="20" type="line"/>
+      <point x="310" y="20"/>
+      <point x="270" y="-10"/>
+      <point x="200" y="-10" type="curve"/>
+      <point x="105" y="-10"/>
+      <point x="30" y="65"/>
+      <point x="20" y="140" type="curve"/>
+      <point x="10" y="140" type="line"/>
+      <point x="20" y="60"/>
+      <point x="100" y="-20"/>
+      <point x="200" y="-20" type="curve"/>
+      <point x="330" y="-20"/>
+      <point x="420" y="70"/>
+      <point x="420" y="240" type="curve"/>
+      <point x="420" y="690" type="line"/>
+      <point x="480" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-20" width="10" />
+      <hstem pos="690" width="10" />
+      <vstem pos="310" width="110" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

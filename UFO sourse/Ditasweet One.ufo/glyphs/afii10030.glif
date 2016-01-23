@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10030" format="1">
+  <advance width="920"/>
+  <unicode hex="041C"/>
+  <outline>
+    <contour>
+      <point x="860" y="690" type="line" name="hr00"/>
+      <point x="860" y="700" type="line"/>
+      <point x="690" y="700" type="line"/>
+      <point x="465" y="235" type="line"/>
+      <point x="240" y="700" type="line"/>
+      <point x="40" y="700" type="line"/>
+      <point x="40" y="690" type="line"/>
+      <point x="120" y="690" type="line"/>
+      <point x="120" y="10" type="line"/>
+      <point x="40" y="10" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="210" y="0" type="line"/>
+      <point x="210" y="10" type="line"/>
+      <point x="130" y="10" type="line"/>
+      <point x="130" y="680" type="line"/>
+      <point x="400" y="120" type="line"/>
+      <point x="420" y="120" type="line"/>
+      <point x="690" y="680" type="line"/>
+      <point x="690" y="10" type="line"/>
+      <point x="630" y="10" type="line"/>
+      <point x="630" y="0" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="860" y="10" type="line"/>
+      <point x="800" y="10" type="line"/>
+      <point x="800" y="690" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="10" />
+      <hstem pos="690" width="10" />
+      <vstem pos="120" width="10" />
+      <vstem pos="690" width="110" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

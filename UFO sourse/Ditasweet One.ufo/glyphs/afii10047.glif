@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10047" format="1">
+  <advance width="720"/>
+  <unicode hex="042D"/>
+  <outline>
+    <contour>
+      <point x="325" y="-10" type="curve" smooth="yes" name="hr00"/>
+      <point x="135" y="-10"/>
+      <point x="35" y="162"/>
+      <point x="30" y="170" type="curve"/>
+      <point x="30" y="150" type="line"/>
+      <point x="30" y="150"/>
+      <point x="130" y="-20"/>
+      <point x="325" y="-20" type="curve" smooth="yes"/>
+      <point x="510" y="-20"/>
+      <point x="670" y="140"/>
+      <point x="670" y="350" type="curve" smooth="yes"/>
+      <point x="670" y="560"/>
+      <point x="510" y="720"/>
+      <point x="325" y="720" type="curve" smooth="yes"/>
+      <point x="160" y="720"/>
+      <point x="60" y="620"/>
+      <point x="60" y="560" type="curve" smooth="yes"/>
+      <point x="60" y="515"/>
+      <point x="95" y="480"/>
+      <point x="140" y="480" type="curve" smooth="yes"/>
+      <point x="185" y="480"/>
+      <point x="220" y="515"/>
+      <point x="220" y="560" type="curve" smooth="yes"/>
+      <point x="220" y="605"/>
+      <point x="185" y="640"/>
+      <point x="140" y="640" type="curve" smooth="yes"/>
+      <point x="127" y="640"/>
+      <point x="118" y="637"/>
+      <point x="115" y="635" type="curve" smooth="yes"/>
+      <point x="122" y="642"/>
+      <point x="195" y="710"/>
+      <point x="325" y="710" type="curve" smooth="yes"/>
+      <point x="460" y="710"/>
+      <point x="540" y="625"/>
+      <point x="540" y="625" type="curve"/>
+      <point x="540" y="350" type="line"/>
+      <point x="260" y="350" type="line"/>
+      <point x="260" y="340" type="line"/>
+      <point x="540" y="340" type="line"/>
+      <point x="540" y="75" type="line"/>
+      <point x="540" y="75"/>
+      <point x="460" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-20" width="10" />
+      <hstem pos="340" width="10" />
+      <hstem pos="480" width="160" />
+      <hstem pos="710" width="10" />
+      <vstem pos="60" width="160" />
+      <vstem pos="540" width="130" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

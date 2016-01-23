@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="320"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="160" y="675" type="line" name="hr00"/>
+      <point x="270" y="540" type="line"/>
+      <point x="290" y="540" type="line"/>
+      <point x="160" y="700" type="line"/>
+      <point x="30" y="540" type="line"/>
+      <point x="50" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="561" width="-21" />
+      <hstem pos="700" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
